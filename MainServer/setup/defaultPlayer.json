@@ -1,0 +1,18 @@
+{
+    "device" : 0,
+    "x" : -4,
+    "z" : 4,
+    "mode" : "0",
+    "score" : 0,
+    "coins" : 100,
+    "items" : {
+            "Potion" : 1,
+            "SuperPotion" : 0,
+            "Pokeball" : 6,
+            "Greatball" : 1,
+            "Ultraball" : 0    
+        }, 
+    "baseAttack": 50,
+    "baseDefence": 200,
+    "health" : 100
+}
